@@ -76,7 +76,7 @@ width: 100%;
 }
 .slideContainer{
     position: relative;
-    max-width: 600px;
+    max-width: 500px;
     overflow: hidden;
     margin: auto;
     margin-top: 50px;
@@ -113,8 +113,7 @@ width: 100%;
 }
 .dotContainer {
     text-align: center;
-    margin-top: 10px;
-    
+    margin-top: 20px;    
 }
 .dot {
     display: inline-block;
